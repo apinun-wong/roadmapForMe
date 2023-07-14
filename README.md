@@ -17,11 +17,13 @@ It's have
 [LinkedIn](https://www.linkedin.com/in/apinun-wongintawang-75346a150/)
 [Medium](https://apinun-wong.medium.com/)
 
+## Tech Path
+  * MVVM + Clearn (Simple V.1) - [LINK](https://github.com/apinun-wong/MVVMByNun)
+
+## Test Codility
+  * GitHub - [Lesson](https://github.com/apinun-wong/codilitySMB)
+
 ## Roadmap for me starts at iOS
 ![image](https://github.com/apinun-wong/roadmapForMe/assets/49288081/30e44904-f83b-4da7-9e06-bc5471ed3b12)
-
-
-## Tech Path
-
 
 

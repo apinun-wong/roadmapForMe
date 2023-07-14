@@ -14,7 +14,7 @@ It's have
 * Products
 * ETC
 
-[LinkedIn](https://www.linkedin.com/in/apinun-wongintawang-75346a150/)
+[LinkedIn](https://www.linkedin.com/in/apinun-wongintawang-75346a150/), 
 [Medium](https://apinun-wong.medium.com/)
 
 ## Tech Path

@@ -22,6 +22,7 @@ It's have
 
 ## Demo
   *  Custom Fonts in iOS and Font system design from me - [LINK](https://github.com/apinun-wong/RandomMeme/tree/main)
+  *  Generate QR Code - [LINK](https://github.com/apinun-wong/QRCodeSMBExample)
 
 ## Test Codility
   * GitHub - [Lesson](https://github.com/apinun-wong/codilitySMB)

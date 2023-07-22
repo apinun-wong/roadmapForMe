@@ -19,6 +19,7 @@ It's have
 
 ## Tech Path
   * MVVM + Clearn (Simple V.1) - [LINK](https://github.com/apinun-wong/MVVMByNun)
+  * Add new Scheme and set environment for iOS project - [LINK](https://github.com/apinun-wong/EnvironmentSetUpiOS/tree/main)
 
 ## Demo
   *  Custom Fonts in iOS and Font system design from me - [LINK](https://github.com/apinun-wong/RandomMeme/tree/main)
